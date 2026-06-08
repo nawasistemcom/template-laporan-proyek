@@ -70,6 +70,35 @@ https://nawasistem.com/blog/
 - Dashboard Proyek Perumahan
 - Sistem Kerja Modern
 
+  ## Artikel Terkait
+
+- Format Laporan Harian Admin Proyek
+  (tambahkan setelah artikel publish)
+
+- Administrasi Proyek yang Rapi dan Profesional
+  (tambahkan setelah artikel publish)
+
+- Dashboard Monitoring Proyek: Cara Modern Mengontrol Progress Lapangan
+  https://nawasistem.com/dashboard-monitoring-proyek-cara-modern-mengontrol-progress-lapangan/
+
+- Admin Proyek Perumahan: Tugas, Tanggung Jawab, dan Skill yang Harus Dimiliki
+  https://nawasistem.com/admin-proyek-perumahan-tugas-tanggung-jawab-dan-skill-yang-harus-dimiliki/
+
+## Produk Terkait
+
+- Template Profesional Proyek Konstruksi
+  https://nawasistem.com/template-profesional-proyek-konstruksi/
+
+- Admin Proyek Juara
+  https://nawasistem.com/admin-proyek-juara/
+
+- Dashboard Proyek Perumahan
+  https://nawasistem.com/dashboard-proyek-perumahan/
+
+## Website Resmi
+
+https://nawasistem.com
+
 ## License
 
 For educational and professional project management purposes.
